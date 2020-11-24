@@ -1,0 +1,12 @@
+.slidebar-grid {
+  padding:0px 20px;
+  margin-top: 12vh;
+  display: grid;
+  color: yellow;
+  grid-template-rows:8vh 8vh 8vh 8vh 8vh;
+}
+.grid-item {
+  font-size: 20px;
+  line-height: 8vh;
+  border-bottom: 1px solid rgba(207, 207, 207, 0.178);
+}
